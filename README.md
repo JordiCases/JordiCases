@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JordiCases
-- 👀 I’m interested in vegetables
-- 🌱 I’m currently learning swift, python, whatelse...
+- 🌱 I eat vegetables and i know things.
 - 💞️ I’m looking to collaborate on make a better planet
-- 📫 How to reach me: ... upon the stars
+- 📫 How to reach me: don't bother.
 
 <!---
 JordiCases/JordiCases is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
